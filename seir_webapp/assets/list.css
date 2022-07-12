@@ -1,0 +1,8 @@
+.custom-list {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 2px;
+    line-height: 1.33em;
+}
+  
